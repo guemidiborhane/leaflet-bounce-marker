@@ -1,0 +1,9 @@
+{
+  "name": "leaflet-bounce-marker",
+  "version": "0.1.0",
+  "description": "A plugin for Leaflet to have a bounce animation when adding a markers to a map.",
+  "main": "src/index.js",
+  "repository": "https://github.com/guemidiborhane/leaflet-bounce-marker.git",
+  "author": "Borhane E. Guemidi <guemidiborhane@gmail.com>",
+  "license": "MIT"
+}
